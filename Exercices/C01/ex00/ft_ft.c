@@ -2,6 +2,7 @@
 
 void ft_ft(int *nbr)
 {
+    printf("n is ");
     printf("%d", *nbr);
 }
 
